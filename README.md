@@ -6,4 +6,5 @@ The following table lists the folders you will find here and a description of th
 
 | folder | description |
 | ------ | ----------- |
+| patchiness-constancy-paper | Files associated with our experiments on patchiness and constancy, reported in a paper currently under review (August 2021)|
 | theor-ecol-2020 | Files associated with the experiments reported in A. Dorin, T. Taylor, M. Burd, J. Garcia, M. Shrestha, A. G. Dyer. ***Competition and pollen wars: simulations reveal the dynamics of competition mediated through heterospecific pollen transfer by non-flower constant insects*** Theoretical Ecology, 13, 2020|
