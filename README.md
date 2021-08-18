@@ -14,7 +14,7 @@ The following table lists the folders you will find here and a description of th
 The folders in this repository contain raw output files for each individual run of the
 simulation described in one of our papers.
 
-There are three output files associated with each run, as described in the following table. The three files for a given run have filenames starting with the same description [runname]-[timestamp]-[uid], where [runname] is a descriptive name of the run (as specified by the "log-run-name" parameter in the configuration file), [timestamp] is the time and date when the run commenced, and [uid] is a  
+There are three output files associated with each run, as described in the following table. The three files for a given run have filenames starting with the same description [runname]-[timestamp]-[uid], where [runname] is a descriptive name of the run (as specified by the "log-run-name" parameter in the configuration file), [timestamp] is the date and time when the run commenced, and [uid] is a random 6-digit number (provided to make it easier to identify and locate specific files).
 
 | filename | description |
 | -------- | ----------- |
@@ -22,5 +22,5 @@ There are three output files associated with each run, as described in the follo
 |[runname]-[timestamp]-[uid]-info.txt|Contains information about the specific version of the simulation program used for this run.|
 |[runname]-[timestamp]-[uid]-log.txt|The output log from the run. The format of each line depends upon which log flags are specified in the simulation configuration file. Details of the different formats can be found [here](https://tim-taylor.github.io/evobee/evobee-config.html).|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTc2ODQyXX0=
+eyJoaXN0b3J5IjpbLTI5OTY1Mjk2Ml19
 -->
