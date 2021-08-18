@@ -20,7 +20,7 @@ There are three output files associated with each run, as described in the follo
 | -------- | ----------- |
 |[runname]-[timestamp]-[uid]-config.json|The simulation configuration file used for this run. The format of this file is described [here](https://tim-taylor.github.io/evobee/evobee-config.html).|
 |[runname]-[timestamp]-[uid]-info.txt|Contains information about the specific version of the simulation program used for this run.|
-|[runname]-[timestamp]-[uid]-log.txt|The output log from the run. The format of each line depends upon which log flags are specified in the simulation configuration file. Details of the different formats can be found [here](https://tim-taylor.github.io/evobee/evobee-config.html).|
+|[runname]-[timestamp]-[uid]-log.txt|The output log from the run. The format of each line depends upon which log flags are specified in the simulation configuration file. Details of the different formats can be found [here](https://tim-taylor.github.io/evobee/evobee-log-files.html).|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQyODA2NTddfQ==
+eyJoaXN0b3J5IjpbNjI4MTUzMDQ5LC0xMzk0MjgwNjU3XX0=
 -->
